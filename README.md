@@ -11,6 +11,9 @@ The app works like this
 ![WhatsApp Image 2019-05-18 at 1 41 31 PM (2)](https://user-images.githubusercontent.com/43893611/57967100-7e173f80-7978-11e9-836d-ea005dcfad00.jpeg)
 ![WhatsApp Image 2019-05-18 at 1 41 31 PM (4)](https://user-images.githubusercontent.com/43893611/57967101-866f7a80-7978-11e9-9650-32253bdde753.jpeg)
 </br>
+</br>
+</br>
+</br>
 Here are the some of the vectors used if you want to look for them too :)
 </br>
 ![Screen Shot 2019-05-18 at 1 53 04 PM](https://user-images.githubusercontent.com/43893611/57967025-76a36680-7977-11e9-9ac9-647cb3bd25bf.png)
